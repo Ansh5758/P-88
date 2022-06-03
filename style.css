@@ -1,0 +1,15 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background: rgb(66, 178, 66);
+	color: white;
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:double;
+	border-radius: 20px;
+	background-color:green;
+}
+
